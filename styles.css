@@ -33,18 +33,7 @@
   justify-content: center;
   flex-direction: column;
 }
-<div style="background:red;
-border-radius:0%;
-text-align:center">Text</div>
-<div style="background:red;
-border-radius:10%
-;text-align:center">Text</div>
-<div style="background:red;
-border-radius:25%;
-text-align:center">Text</div>
-<div style="background:red;
-border-radius:50%
-;text-align:center">Text</div>
+
 /* Only showing new stuff... */
 #spookster {
   position: relative;
@@ -130,7 +119,8 @@ border-radius:50%
   left: 6vmin;
   transform: rotate(-45deg)
 }
-#right-waggler{
+#right-waggler {
   top: 22vmin;
   left: 18vmin;
   transform: rotate(45deg)
+} 
