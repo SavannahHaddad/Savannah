@@ -63,7 +63,7 @@
 }
 /* Only showing new stuff... */
 #peepers {
-  position: absolute;
+  position: follow;
   width: 5vmin;
   height: 5vmin;
   background: #000;
