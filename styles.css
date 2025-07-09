@@ -14,7 +14,7 @@
 
 /* New! */
 #base {
-  background: white;
+  background: rgb(66, 178, 212);
   height: 100vh;
   width: 100vw;
   display: flex;
@@ -59,7 +59,7 @@
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
   border-top: 0;
-  background: #ffdcff;
+  background: #d6bdd6;
 }
 /* Only showing new stuff... */
 #peepers {
